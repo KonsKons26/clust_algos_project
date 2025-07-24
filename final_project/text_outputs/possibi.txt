@@ -1,0 +1,77 @@
+Iteration: 1 of 16	q = 2.0000
+Iteration: 2 of 16	q = 2.1333
+Iteration: 3 of 16	q = 2.2667
+Iteration: 4 of 16	q = 2.4000
+Iteration: 5 of 16	q = 2.5333
+Iteration: 6 of 16	q = 2.6667
+Iteration: 7 of 16	q = 2.8000
+Iteration: 8 of 16	q = 2.9333
+Iteration: 9 of 16	q = 3.0667
+Iteration: 10 of 16	q = 3.2000
+Iteration: 11 of 16	q = 3.3333
+Iteration: 12 of 16	q = 3.4667
+Iteration: 13 of 16	q = 3.6000
+Iteration: 14 of 16	q = 3.7333
+Iteration: 15 of 16	q = 3.8667
+Iteration: 16 of 16	q = 4.0000
+
+Iteration: 1 of 16	q = 4.0000
+Iteration: 2 of 16	q = 4.4000
+Iteration: 3 of 16	q = 4.8000
+Iteration: 4 of 16	q = 5.2000
+Iteration: 5 of 16	q = 5.6000
+Iteration: 6 of 16	q = 6.0000
+Iteration: 7 of 16	q = 6.4000
+Iteration: 8 of 16	q = 6.8000
+Iteration: 9 of 16	q = 7.2000
+Iteration: 10 of 16	q = 7.6000
+Iteration: 11 of 16	q = 8.0000
+Iteration: 12 of 16	q = 8.4000
+Iteration: 13 of 16	q = 8.8000
+Iteration: 14 of 16	q = 9.2000
+Iteration: 15 of 16	q = 9.6000
+Iteration: 16 of 16	q = 10.0000
+
+Iteration: 1 of 16	q = 10.0000
+Iteration: 2 of 16	q = 11.3333
+Iteration: 3 of 16	q = 12.6667
+Iteration: 4 of 16	q = 14.0000
+Iteration: 5 of 16	q = 15.3333
+Iteration: 6 of 16	q = 16.6667
+Iteration: 7 of 16	q = 18.0000
+Iteration: 8 of 16	q = 19.3333
+Iteration: 9 of 16	q = 20.6667
+Iteration: 10 of 16	q = 22.0000
+Iteration: 11 of 16	q = 23.3333
+Iteration: 12 of 16	q = 24.6667
+Iteration: 13 of 16	q = 26.0000
+Iteration: 14 of 16	q = 27.3333
+Iteration: 15 of 16	q = 28.6667
+Iteration: 16 of 16	q = 30.0000
+
+
+possibilistic with 8 clusters and q=2.00
+Adjusted Rand Index (ARI): 0.7869
+Rand Index (RI): 0.9248
+Mirkin Index (MI): 0.0752
+Hubert Index (HI): 0.8497
+Normalized Mutual Information (NMI): 0.7813
+Elapsed time is 5.318901 seconds.
+
+
+possibilistic with 8 clusters and q=12.00
+Adjusted Rand Index (ARI): 0.6287
+Rand Index (RI): 0.8497
+Mirkin Index (MI): 0.1503
+Hubert Index (HI): 0.6993
+Normalized Mutual Information (NMI): 0.6994
+Elapsed time is 4.835224 seconds.
+
+
+possibilistic with 8 clusters and q=2.00 (not preprocessed)
+Adjusted Rand Index (ARI): 0.7819
+Rand Index (RI): 0.9230
+Mirkin Index (MI): 0.0770
+Hubert Index (HI): 0.8460
+Normalized Mutual Information (NMI): 0.7743
+Elapsed time is 7.728101 seconds.

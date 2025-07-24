@@ -1,0 +1,25 @@
+k-means with 5 clusters
+Adjusted Rand Index (ARI): 0.8166
+Rand Index (RI): 0.9368
+Mirkin Index (MI): 0.0632
+Hubert Index (HI): 0.8736
+Normalized Mutual Information (NMI): 0.8040
+Elapsed time is 0.084712 seconds.
+
+
+k-means with 8 clusters
+Adjusted Rand Index (ARI): 0.8539
+Rand Index (RI): 0.9511
+Mirkin Index (MI): 0.0489
+Hubert Index (HI): 0.9023
+Normalized Mutual Information (NMI): 0.8265
+Elapsed time is 0.089917 seconds.
+
+
+k-means with 8 clusters not preprocessed
+Adjusted Rand Index (ARI): 0.8415
+Rand Index (RI): 0.9455
+Mirkin Index (MI): 0.0545
+Hubert Index (HI): 0.8910
+Normalized Mutual Information (NMI): 0.8311
+Elapsed time is 3.541476 seconds.

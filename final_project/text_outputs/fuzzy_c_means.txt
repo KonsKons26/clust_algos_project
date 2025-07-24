@@ -1,0 +1,17 @@
+fuzzy c-means with 8 clusters
+Adjusted Rand Index (ARI): 0.9089
+Rand Index (RI): 0.9709
+Mirkin Index (MI): 0.0291
+Hubert Index (HI): 0.9417
+Normalized Mutual Information (NMI): 0.8504
+Elapsed time is 22.559854 seconds.
+
+
+fuzzy c-means with 8 clusters not preprocessed
+Adjusted Rand Index (ARI): 0.9173
+Rand Index (RI): 0.9736
+Mirkin Index (MI): 0.0264
+Hubert Index (HI): 0.9471
+Normalized Mutual Information (NMI): 0.8580
+Elapsed time is 98.563295 seconds.
+

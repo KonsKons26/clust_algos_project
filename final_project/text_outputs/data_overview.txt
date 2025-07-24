@@ -1,0 +1,121 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OVERVIEW BEFORE DIM REDUCTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variance explained by the first 6 components 
+    0.9371
+    0.0580
+    0.0026
+    0.0012
+    0.0006
+    0.0002
+
+Total variance    0.9996
+
+20 most variant pixels
+     1
+     2
+     3
+   104
+   103
+     4
+     5
+     6
+     7
+   102
+   105
+     8
+   101
+    38
+     9
+    39
+   100
+   107
+    10
+   106
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OVERVIEW AFTER DIM REDUCTION by 6 times
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variance explained by the first 6 components 
+    0.9338
+    0.0617
+    0.0024
+    0.0011
+    0.0006
+    0.0002
+
+Total variance    0.9998
+
+10 most variant pixels
+    18
+     1
+     2
+    17
+    16
+    15
+     7
+     3
+     8
+    14
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OVERVIEW AFTER DIM REDUCTION by 34 times
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variance explained by the first 6 components 
+    0.9280
+    0.0697
+    0.0017
+    0.0006
+    0.0000
+    0.0000
+
+Total variance     1
+
+6 most variant pixels
+    18
+     1
+     2
+    17
+    16
+    15
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OVERVIEW AFTER KEEPING LOW CORR COEFF COLUMNS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variance explained by the first 6 components 
+    0.5473
+    0.4121
+    0.0190
+    0.0134
+    0.0021
+    0.0017
+
+Total variance    0.9957
+
+6 most variant pixels
+     1
+     2
+     3
+    20
+    11
+    14
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OVERVIEW AFTER DROPPING LOW CORR COEFF COLUMNS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Variance explained by the first 6 components 
+    0.9968
+    0.0026
+    0.0003
+    0.0001
+    0.0000
+    0.0000
+
+Total variance    0.9999
+
+6 most variant pixels
+    40
+    20
+    39
+    36
+    19
+    26

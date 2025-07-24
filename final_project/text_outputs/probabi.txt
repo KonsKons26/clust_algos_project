@@ -1,0 +1,11 @@
+Iteration: 1	convergence value (e): 9.973600e+01
+Iteration: 2	convergence value (e): 1.466605e-13
+
+
+probabilistic clustering with 8 clusters
+Adjusted Rand Index (ARI): 0.7719
+Rand Index (RI): 0.9181
+Mirkin Index (MI): 0.0819
+Hubert Index (HI): 0.8363
+Normalized Mutual Information (NMI): 0.7374
+Elapsed time is 11.614779 seconds.
