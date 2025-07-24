@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# Except these files and directories
+!.gitignore
+!README.md
+!Project.pdf
+!report.pdf
+!final_project/
