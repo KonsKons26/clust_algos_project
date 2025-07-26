@@ -1,6 +1,6 @@
 # Final project for the 'Clustering Algorithms' Course
 
-The instructions for the assignment are in [this file](Project.pdf) and our report is [this file](report.pdf).
+The instructions for the assignment are in [this file](Project.pdf) and my report is [this file](report.pdf).
 
 The following are the required data and workspaces:
 
