@@ -42,9 +42,9 @@ The following functions were taken from the GitHub repository [Introduction to P
 Recognition a Matlab Approach](https://github.com/pikrakis/Introduction-to-Pattern-Recognition-a-Matlab-Approach/tree/master) or were provided in the course materials:
 
 1. distan.m
-2. distant init.m
-3. k means.m
-4. pca fun.m
+2. distant_init.m
+3. k_means.m
+4. pca_fun.m
 5. possibi.m
 
 The following functions were taken from two GitHub repositories and were used for calcu-
